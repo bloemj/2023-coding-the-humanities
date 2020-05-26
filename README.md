@@ -18,13 +18,7 @@ You will need an **editor** to write code and edit files. If you don't have a pr
 
 * Option 1 (recommended): Download [the repository contents](https://github.com/Giovanni1085/UvA_CDH_2020) and use [Spyder](https://www.spyder-ide.org/). See the [guide to setup your environment](setup.md) for more info.
 
-* Option 2 (advanced):
-1. Clone (or just download) the repository locally: `git clone https://github.com/Giovanni1085/UvA_CDH_2020.git`
-2. Get updates (from time to time): `git pull`
-3. Create a conda environemnt: `conda create -n myenv python=3.7 anaconda` (where `myenv` is the envirnoment name)
-4. Activate it: `conda activate myenv`
-5. Install packages (see the `requirements.txt` file), e.g. `conda install pandas`
-6. Launch a Jupyter notebook: `jupyter notebook`
+* Option 2 (advanced): work directly with git and conda. See the [guide to setup your environment](setup.md) for more info.
 
 ### Further reading
 
