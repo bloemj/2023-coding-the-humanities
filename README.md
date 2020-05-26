@@ -10,15 +10,15 @@
 
 ### Editor
 
-You really will need an **editor** to write code and edit files. If you don't have a preferred one yet, check [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/).
+You will need an **editor** to write code and edit files. If you don't have a preferred one yet, check [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/).
 
 ### Working with Jupyter Notebooks
 
-* Option 0: Use [Binder](https://mybinder.org) (link above). Keep in mind you need to download your notebooks to save them locally.
+* Option 0 (fallback): Use [Binder](https://mybinder.org) (link above). Keep in mind you need to download your notebooks to save them locally.
 
-* Option 1: Download [the repository contents](https://github.com/Giovanni1085/UvA_CDH_2020) and use [Spyder](https://www.spyder-ide.org/).
+* Option 1 (recommended): Download [the repository contents](https://github.com/Giovanni1085/UvA_CDH_2020) and use [Spyder](https://www.spyder-ide.org/). See the [guide to setup your environment](setup.md) for more info.
 
-* Option 2:
+* Option 2 (advanced):
 1. Clone (or just download) the repository locally: `git clone https://github.com/Giovanni1085/UvA_CDH_2020.git`
 2. Get updates (from time to time): `git pull`
 3. Create a conda environemnt: `conda create -n myenv python=3.7 anaconda` (where `myenv` is the envirnoment name)
