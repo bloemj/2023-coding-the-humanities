@@ -1,0 +1,15 @@
+Project Gutenberg Extension
+http://gutenberg.net/
+
+This corpus contains etexts from from Project Gutenberg,
+by the following authors:
+
+* Jane Austen
+* Arthur Conan Doyle
+* James Joyce
+* Mary Wollstonecraft (Godwin) Shelley
+* Bram Stoker
+
+This is just of toy-example for educational purposes. 
+The same legal conditions as the gutenberg corpus in the NLTK
+distribution apply.

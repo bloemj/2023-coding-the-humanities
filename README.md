@@ -5,6 +5,10 @@
 ## Contents
 
 * [Hello World](notebooks/0_HelloWorld.ipynb): a first notebook to check if everything is working.
+* [Python basics](notebooks/1_Basics.ipynb).
+* [Input-output](notebooks/2_InputOutput.ipynb).
+* [Pandas basics](notebooks/3_PandasBasics.ipynb).
+* [Data wrangling](notebooks/4_DataWrangling.ipynb).
 
 ## Set-up
 
