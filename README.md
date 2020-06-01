@@ -10,6 +10,8 @@
 * [Pandas basics](notebooks/3_PandasBasics.ipynb).
 * [Data wrangling](notebooks/4_DataWrangling.ipynb).
 
+We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data).
+
 ## Set-up
 
 ### Editor
