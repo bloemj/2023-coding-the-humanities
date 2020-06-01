@@ -34,3 +34,11 @@ You will need an **editor** to write code and edit files. If you don't have a pr
 * [On using git and GitHub for version control](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch02git)
 
 **A more detailed [guide to setup your environment](setup.md), with multiple options.**
+
+## Acknowledgements
+
+Some materials are re-purposed from:
+
+* [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS), Oxford Digitial Humanities Summer School.
+* [Text Mining](https://github.com/Giovanni1085/AUC_TMCI_2019), Amsterdam University College.
+* [Python Programming for the Humanities](http://www.karsdorp.io/python-course).
