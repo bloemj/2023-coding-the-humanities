@@ -1,14 +1,15 @@
 # Working environment setup
 
-## Primary option: Anaconda and Spyder
+## Primary option: Anaconda and Spyder or Notebooks
 
 [Spyder](https://www.spyder-ide.org/) is a nice programming GUI (graphical user interface) similar to R Studio, if you are familiar with it. You will need to:
 
 1. Download data and code for each class. Go to [the repository](https://github.com/Giovanni1085/UvA_CDH_2020) and click on download > zip (top right). Unzip locally somewhere you know (e.g., desktop). Keep in mind you will need to download again for each class, as new contents are added.
-2. Install Spyder via [Anaconda](https://www.anaconda.com/products/individual). Anaconda is a Python distribution with many packages, some we will use. Pick the graphical installer, Python 3.7, for whatever OS (operating system) you are using.
+2. Install [Anaconda](https://www.anaconda.com/products/individual). Anaconda is a Python distribution with many packages, some we will use. Pick the graphical installer, Python 3.7, for whatever OS (operating system) you are using.
 3. Launch Anaconda Navigator. (**do this step only once**) On the left side pane, you will see Home and Enviroments. Click on Enviroments, and using base (root, the default one), click on Channels > Add... > `conda-forge`. This will add a new channel for some packages we will need. Install the package `spyder-notebook` from the forge.
 4. Go to Home and launch Spyder.
 5. At the bottom, you will see two options: Editor and Notebook. Click on Notebook. Right click on the Welcome page and open the notebooks you have downloaded at step 1.
+6. Alternatively, skip steps 3-5 and launch **Jupyter Notebook** via the Anaconda Navigator. Go to the course contents folder and start the notebooks you need.
 6. You are now good to go and can save locally too.
 
 ## Fallback option: Binder

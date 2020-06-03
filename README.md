@@ -22,7 +22,7 @@ You will need an **editor** to write code and edit files. If you don't have a pr
 
 * Option 0 (fallback): Use [Binder](https://mybinder.org) (link above). Keep in mind you need to download your notebooks to save them locally.
 
-* Option 1 (recommended): Download [the repository contents](https://github.com/Giovanni1085/UvA_CDH_2020) and use [Spyder](https://www.spyder-ide.org/). See the [guide to setup your environment](setup.md) for more info.
+* Option 1 (recommended): Download [the repository contents](https://github.com/Giovanni1085/UvA_CDH_2020) and use [Spyder](https://www.spyder-ide.org/) or the Jyputer Notebook. See the [guide to setup your environment](setup.md) for more info.
 
 * Option 2 (advanced): work directly with git and conda. See the [guide to setup your environment](setup.md) for more info.
 
