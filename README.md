@@ -10,7 +10,7 @@
 * (optional) [Pandas basics](notebooks/3_PandasBasics.ipynb): Pandas is the go-to library for data analysis.
 * (optional) [Data wrangling](notebooks/4_DataWrangling.ipynb): loading, cleaning and transforming data for analysis. 
 * [Working with Tweets](notebooks/5_WorkingTweets.ipynb): working with data from Twitter.
-* [Web Scraping and APIs](notebooks/6_WebScraping.ipynb): scraping the Web and APIs for data.
+* (optional) [Web Scraping and APIs](notebooks/6_WebScraping.ipynb): scraping the Web and APIs for data.
 * (optional) [Working with Texts](notebooks/7_WorkingTexts.ipynb): the Natural Language Processing pipeline to work with texts.
 
 We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data).
