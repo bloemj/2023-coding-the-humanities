@@ -1,16 +1,42 @@
 # Working environment setup
 
-## Primary option: Anaconda and Spyder or Notebooks
+Download data and code for each class. Go to [the repository](https://github.com/uvacreate/2021-coding-the-humanities) and click on download > zip (top right). Unzip locally somewhere you know (e.g., desktop). Keep in mind you will need to download again for each class, as new contents are added.
+
+## Primary option: Anaconda and Jupyter Notebooks
+
+[Jupyter notebooks](https://jupyter.org/) allow you to code and type in your browser. This is included in the Anaconda distribution. 
+
+#### Anaconda
+
+1. Install conda using the [Anaconda distribution](https://www.anaconda.com/distribution/), remember to pick Python 3.8 and the OS you need. Get the graphical installer. You do not have to install the optional programs, such as the PyCharm editor. 
+2. After installation, you will have an app called **Anaconda Navigator** installed. You can create and manage enviromnents and use jupyter notebooks from it, without using the terminal, mostly.
+   1. If you now launch the 'Jupyter Notebook' it will open a browser window. Navigate to the place where you downloaded and extracted (!) the zip with the course notebooks from this repository. Click on a Notebook to open it.
+3. If you use the terminal, remember to relaunch all your terminal windows after the installation of conda. Then refer to [this guide](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Most likely the Anaconda installer already created an environment for you. But, to have them at hand, the most basic commands are:
+    - `conda create -n myenv python=3.8 anaconda` which will create an environment named `myenv` and install the libraries in the anaconda distribution into it (handy to have most of the popular stuff at the ready).
+    - `conda activate myenv`.
+    - `conda deactivate`.
+    - `conda remove --name myenv --all` to remove an environment and all its packages.
+
+
+## Optional, through an editor
+
+### Spyder
 
 [Spyder](https://www.spyder-ide.org/) is a nice programming GUI (graphical user interface) similar to R Studio, if you are familiar with it. You will need to:
 
-1. Download data and code for each class. Go to [the repository](https://github.com/Giovanni1085/UvA_CDH_2020) and click on download > zip (top right). Unzip locally somewhere you know (e.g., desktop). Keep in mind you will need to download again for each class, as new contents are added.
-2. Install [Anaconda](https://www.anaconda.com/products/individual). Anaconda is a Python distribution with many packages, some we will use. Pick the graphical installer, Python 3.7, for whatever OS (operating system) you are using.
-3. Launch Anaconda Navigator. (**do this step only once**) On the left side pane, you will see Home and Enviroments. Click on Enviroments, and using base (root, the default one), click on Channels > Add... > `conda-forge`. This will add a new channel for some packages we will need. Install the package `spyder-notebook` from the forge.
-4. Go to Home and launch Spyder.
-5. At the bottom, you will see two options: Editor and Notebook. Click on Notebook. Right click on the Welcome page and open the notebooks you have downloaded at step 1.
-6. Alternatively, skip steps 3-5 and launch **Jupyter Notebook** via the Anaconda Navigator. Go to the course contents folder and start the notebooks you need.
-6. You are now good to go and can save locally too.
+
+1. Launch Anaconda Navigator. (**do this step only once**) On the left side pane, you will see Home and Enviroments. Click on Enviroments, and using base (root, the default one), click on Channels > Add... > `conda-forge`. This will add a new channel for some packages we will need. Install the package `spyder-notebook` from the forge.
+2. Go to Home and launch Spyder.
+3. At the bottom, you will see two options: Editor and Notebook. Click on Notebook. Right click on the Welcome page and open the notebooks you have downloaded at step 1.
+4. Alternatively, skip steps 3-5 and launch **Jupyter Notebook** via the Anaconda Navigator. Go to the course contents folder and start the notebooks you need.
+5. You are now good to go and can save locally too.
+
+### Visual Studio Code
+See also: https://code.visualstudio.com/docs/python/python-tutorial
+
+1. Download and install [VSCode](https://code.visualstudio.com/).
+2. Install the Python plugin(s)
+3. Open one of the notebooks in VSCode. You'll see that the Notebook's contents are rendered in the editor!
 
 ## Fallback option: Binder
 
@@ -59,17 +85,6 @@ Just download the repository code before every lab, by clicking on `Clone or dow
 
 **IMPORTANT**: Either way, this copy of the course repo will conflict with any change you made yourself to the files in there. This is especially the case for the former way: if you pull, then you edit, then I edit, then you pull again, there will likely be a conflict if we both changed the same files. I recommend to put your edited copies of the repository contents in a separate folder, so to keep your edits (ideally, you could do versioning on a repository of your own!).
 
-#### Conda
 
-1. Install conda using the [Anaconda distribution](https://www.anaconda.com/distribution/), remember to pick Python 3.7 and the OS you need. Get the graphical installer.
-2. After installation, you will have an app called **Anaconda Navigator** installed. You can create and manage enviromnents and use jupyter notebooks from it, without using the terminal, mostly.
-3. If you use the terminal, remember to relunch all your terminal windows after the installation of conda. Then refer to [this guide](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). The msot basic commands are:
-    - `conda create -n myenv python=3.7 anaconda` which will create an environment named `myenv` and install the libraries in the anaconda distribution into it (handy to have most of the popular stuff at the ready).
-    - `conda activate myenv`.
-    - `conda deactivate`.
-    - `conda remove --name myenv --all` to remove an environment and all its packages.
 
-#### Jupyter 
-
-This should be straightforward if you have the Anaconda Navigator or have an environment created as detailed above. More info [here](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46).
 
