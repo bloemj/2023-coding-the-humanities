@@ -6,7 +6,7 @@
 
 0. [Hello World](notebooks/0_HelloWorld.ipynb): a first notebook to check if everything is working.
 1. [Python basics](notebooks/1_Basics.ipynb): basics of Python, including ample reference documentation.
-2. WIP: [Input/Output](notebooks/2_InputOutput.ipynb): Functions, loops, reading and writing files from and to disk.
+2. [Input/Output](notebooks/2_InputOutput.ipynb): conditional statements, functions, loops, reading and writing files from and to disk.
 3. WIP: (optional) [Pandas basics](notebooks/3_PandasBasics.ipynb): Pandas is the go-to library for data analysis.
 4. WIP: (optional) [Data wrangling](notebooks/4_DataWrangling.ipynb): loading, cleaning and transforming data for analysis. 
 5. WIP: [Working with Tweets](notebooks/5_WorkingTweets.ipynb): working with data from Twitter.
@@ -24,7 +24,7 @@ You will need an **editor** to write code and edit files. If you don't have a pr
 
 ### Working with Jupyter Notebooks
 
-* Option 0 (fallback): Use [Binder](https://mybinder.org) (link above). Keep in mind you need to download your notebooks to save them locally.
+* Option 0 (fallback): Use [Binder](https://mybinder.org) (link above). Keep in mind you need to download your notebooks to save them locally. (Note: Binder )
 
 * Option 1 (recommended): Download [the repository contents](https://github.com/uvacreate/2021-coding-the-humanities) and use Jyputer Notebook. See the [guide to setup your environment](setup.md) for more info.
 
