@@ -10,8 +10,8 @@
 3. [Reading and writing files, JSON](notebooks/3_ReadingAndWritingFilesPandas.ipynb): reading and writing txt, json and csv files.
 4. [Data wrangling with Pandas](notebooks/4_PandasDataWrangling.ipynb): Introduction to Pandas, the go-to library for data analysis. Loading, cleaning and transforming data for analysis. 
 5. WIP: [Working with Tweets](notebooks/5_WorkingTweets.ipynb): working with data from Twitter.
-6. WIP: (optional) [Web Scraping and APIs](notebooks/6_WebScraping.ipynb): scraping the Web and APIs for data.
-7. WIP: (optional) [Working with Texts](notebooks/7_WorkingTexts.ipynb): the Natural Language Processing pipeline to work with texts.
+6. (optional) [Web Scraping and APIs](notebooks/6_WebScraping.ipynb): scraping the Web and APIs for data.
+7. (optional) [Working with Texts](notebooks/7_WorkingTexts.ipynb): the Natural Language Processing pipeline to work with texts.
 
 We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data).
 
