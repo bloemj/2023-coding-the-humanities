@@ -7,7 +7,7 @@
 0. [Hello World](notebooks/0_HelloWorld.ipynb): a first notebook to check if everything is working.
 1. [Python basics](notebooks/1_Basics.ipynb): basics of Python, including ample reference documentation.
 2. [Input/Output](notebooks/2_InputOutput.ipynb): conditional statements, functions, loops, reading and writing files from and to disk.
-3. [Reading and writing files, JSON](notebooks/3_ReadingAndWritingFilesPandas.ipynb): reading and writing txt, json and csv files.
+3. [Reading and writing files, JSON](notebooks/3_ReadingAndWritingFiles.ipynb): reading and writing txt, json and csv files.
 4. [Data wrangling with Pandas](notebooks/4_PandasDataWrangling.ipynb): Introduction to Pandas, the go-to library for data analysis. Loading, cleaning and transforming data for analysis. 
 5. [Working with Tweets](notebooks/5_WorkingTweets.ipynb): working with data from Twitter.
 6. (optional) [Web Scraping and APIs](notebooks/6_WebScraping.ipynb): scraping the Web and APIs for data.
