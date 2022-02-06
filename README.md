@@ -1,6 +1,6 @@
-# UvA Coding the Humanities 2020
+# UvA Coding the Humanities 2022
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uvacreate/2021-coding-the-humanities/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bloemj/2022-coding-the-humanities/master)
 
 ## Contents
 
@@ -20,7 +20,7 @@ We will use some **datasets** from [this course](https://github.com/mromanello/A
 
 ### Editor
 
-You will need an **editor** to write code and edit files. If you don't have a preferred one yet, check [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
+You may need an **editor** to write code and edit files offline on your own system. If you don't have a preferred one yet, check [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
 
 ### Working with Jupyter Notebooks
 
@@ -32,17 +32,17 @@ You will need an **editor** to write code and edit files. If you don't have a pr
 
 ### Further reading
 
-* [More on conda enviroments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-* [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 * [Getting started with Jupyter notebooks](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
 * [On using git and GitHub for version control](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch02git)
+* [More on conda enviroments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+* [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 
 
 ## Acknowledgements
 
-Some materials are re-purposed from:
-* Materials used in this course (Spring 2021) are a 'fork' of [last year's material](https://github.com/Giovanni1085/UvA_CDH_2020)
+Various materials are re-purposed from:
+* Materials used in this course (Spring 2022) are a 'fork' of [last year's material](https://github.com/uvacreate/2021-coding-the-humanities) taught by [Leon van Wissen](https://www.leonvanwissen.nl/) which was a 'fork' of [the 2020 course materials](https://github.com/Giovanni1085/UvA_CDH_2020) by [Giovanni Colavizza](https://www.giovannicolavizza.com/)
 * [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS), Oxford Digitial Humanities Summer School.
 * [Text Mining](https://github.com/Giovanni1085/AUC_TMCI_2019), Amsterdam University College.
 * [Python Programming for the Humanities](http://www.karsdorp.io/python-course).

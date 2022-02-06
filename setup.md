@@ -1,8 +1,20 @@
 # Working environment setup
 
-Download data and code for each class. Go to [the repository](https://github.com/uvacreate/2021-coding-the-humanities) and click on download > zip (top right). Unzip locally somewhere you know (e.g., desktop). Keep in mind you will need to download again for each class, as new contents are added.
+## Primary option: Jupyter Notebooks in Google Colab
 
-## Primary option: Anaconda and Jupyter Notebooks
+Using Google Colab, you can open our class materials from Github directly and keep the whole process in the cloud. View the list of class notebooks that are available for running and editing by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window, which appears when you first log in. Choose the **GitHub** option (second option from the right) and enter the GitHub link of our course materials: https://github.com/uvacreate/2021-coding-the-humanities 
+
+Then you will see a list of the class notebooks. Click one to open it. When you choose to **save your changes**, Colab will ask you to save a copy to your Google Drive. This will be your own copy of the file that you will work on. You are now good to go!
+
+If you wish to quit and continue later, you should **open your own copy** again from Google Drive when you come back. To do this, choose the **Google Drive** option in the initial opening screen, and you will see your copy that you saved earlier. If you instead open from GitHub again, you will have another fresh copy from us and you will **lose your changes**.
+
+Of course, it is also possible to open a Jupyter Notebook file that you have on your own computer in Google Colab, and work on that. To do this, use the **Upload** option, the top right option in the initial opening screen.
+
+Note that all of these things only work while you have an active internet connection. You will **not** be able to do anything in Google Colab without an internet connection. If you expect to be working offline without a connection, consider running Python on your own machine with Anaconda, as outlined below.
+
+## Offline option: Anaconda and Jupyter Notebooks
+
+Download data and code for each class. Go to [the repository](https://github.com/uvacreate/2021-coding-the-humanities) and click on download > zip (top right). Unzip locally somewhere you know (e.g., desktop). Keep in mind you will need to download again for each class, as new contents are added.
 
 [Jupyter notebooks](https://jupyter.org/) allow you to code and type in your browser. This is included in the Anaconda distribution. 
 
@@ -18,7 +30,7 @@ Download data and code for each class. Go to [the repository](https://github.com
     - `conda remove --name myenv --all` to remove an environment and all its packages.
 
 
-## Optional, through an editor
+## Offline and through an editor
 
 ### Spyder
 
@@ -38,9 +50,9 @@ See also: https://code.visualstudio.com/docs/python/python-tutorial
 2. Install the Python plugin(s)
 3. Open one of the notebooks in VSCode. You'll see that the Notebook's contents are rendered in the editor!
 
-## Fallback option: Binder
+## Fallback online option: Binder
 
-[Binder](https://mybinder.org/) allows you to run notebooks in the cloud. Just click on launch Binder in the repo. Remember to download any file you edited and want to preserve.
+[Binder](https://mybinder.org/) is another service that allows you to run notebooks in the cloud. Just click on launch Binder in the repo. Remember to download any file you edited and want to preserve.
 
 ## For pros
 
@@ -72,8 +84,8 @@ For Windows, see [here](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_
 
 ##### The best way
 
-1. The first time, clone the repository locally using `git clone https://github.com/Giovanni1085/AUC_TMCI_2019.git`.
-2. Keep getting updates to the code before every lab by going to your local repository directory (e.g., `cd PATH_TO_REPO`) and `git pull`. This will pull all remote changes to local, and update your repository.
+1. The first time, clone the repository locally using `git clone https://github.com/bloemj/2022-coding-the-humanities.git`.
+2. Keep getting updates to the code before every seminar by going to your local repository directory (e.g., `cd PATH_TO_REPO`) and `git pull`. This will pull all remote changes to local, and update your repository.
 
 ##### The easy way - 1 
 
