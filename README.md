@@ -24,7 +24,7 @@ You may need an **editor** to write code and edit files offline on your own syst
 
 ### Working with Jupyter Notebooks
 
-* Option 1 (recommended): Download [the repository contents](https://github.com/uvacreate/2021-coding-the-humanities) and use Jyputer Notebook. See the [guide to setup your environment](setup.md) for more info.
+* Option 1 (recommended): Download [the repository contents](https://github.com/bloemj/2022-coding-the-humanities) and use Jyputer Notebook. See the [guide to setup your environment](setup.md) for more info.
 
 * Option 2 (advanced): work directly with git and conda. See the [guide to setup your environment](setup.md) for more info.
 
