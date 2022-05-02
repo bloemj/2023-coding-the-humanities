@@ -2,7 +2,7 @@
 
 ## Primary option: Jupyter Notebooks in Google Colab
 
-Using Google Colab, you can open our class materials from Github directly and keep the whole process in the cloud. View the list of class notebooks that are available for running and editing by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window, which appears when you first log in. Choose the **GitHub** option (second option from the right) and enter the GitHub link of our course materials: https://github.com/uvacreate/2021-coding-the-humanities 
+Using Google Colab, you can open our class materials from Github directly and keep the whole process in the cloud. View the list of class notebooks that are available for running and editing by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window, which appears when you first log in. Choose the **GitHub** option (second option from the right) and enter the GitHub link of our course materials: https://github.com/bloemj/2022-coding-the-humanities 
 
 Then you will see a list of the class notebooks. Click one to open it. When you choose to **save your changes**, Colab will ask you to save a copy to your Google Drive. This will be your own copy of the file that you will work on. You are now good to go!
 
