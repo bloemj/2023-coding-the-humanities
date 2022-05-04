@@ -22,9 +22,13 @@ We will use some **datasets** from [this course](https://github.com/mromanello/A
 
 You may need an **editor** to write code and edit files offline on your own system. If you don't have a preferred one yet, check [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
 
+### Working with Google Colab
+
+Using Google Colab, you can open our course materials from Github directly and keep the whole process in the cloud. View the list of class notebooks that are available for running and editing by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window, which appears when you first log in. Choose the GitHub option (second option from the right) and enter the GitHub link of our course materials: https://github.com/bloemj/2022-coding-the-humanities
+
 ### Working with Jupyter Notebooks
 
-* Option 1 (recommended): Download [the repository contents](https://github.com/bloemj/2022-coding-the-humanities) and use Jyputer Notebook. See the [guide to setup your environment](setup.md) for more info.
+* Option 1 (recommended): Download [the repository contents](https://github.com/bloemj/2022-coding-the-humanities) and use Jupyter Notebook. See the [guide to setup your environment](setup.md) for more info.
 
 * Option 2 (advanced): work directly with git and conda. See the [guide to setup your environment](setup.md) for more info.
 
