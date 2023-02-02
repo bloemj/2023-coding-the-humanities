@@ -1,26 +1,25 @@
-# UvA Coding the Humanities 2022
+# UvA Coding the Humanities 2023
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bloemj/2022-coding-the-humanities/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bloemj/2023-coding-the-humanities/master)
 
 ## Contents
 
-0. [Hello World](notebooks/0_HelloWorld.ipynb): a first notebook to check if everything is working.
-1. [Python basics](notebooks/1_Basics.ipynb): basics of Python, including ample reference documentation.
-2. [Input/Output](notebooks/2_InputOutput.ipynb): conditional statements, functions, loops, reading and writing files from and to disk.
-3. [Reading and writing files, JSON](notebooks/3_ReadingAndWritingFiles.ipynb): reading and writing txt, json and csv files.
-4. [Data wrangling with Pandas](notebooks/4_PandasDataWrangling.ipynb): Introduction to Pandas, the go-to library for data analysis. Loading, cleaning and transforming data for analysis. 
-5. [Working with Tweets](notebooks/5_WorkingTweets.ipynb): working with data from Twitter.
-6. (optional) [Web Scraping and APIs](notebooks/6_WebScraping.ipynb): scraping the Web and APIs for data.
-7. (optional) [Working with Texts](notebooks/7_WorkingTexts.ipynb): the Natural Language Processing pipeline to work with texts.
+0. [Hello World](notebooks/0_HelloWorld.ipynb): a first notebook to check if everything is working. To run Python on your own laptop, use [this one](notebooks/0_HelloWorld_localinstall.ipynb).
+1. [Python variables](notebooks/1_Variables.ipynb): Basic information on variables in Python, including ample reference documentation. [Supplementary materials](notebooks/1_Variables_supplemental.ipynb)
+2. [Text](notebooks/2_Text.ipynb): Text strings and dictionaries. [Supplementary materials](notebooks/2_Text_supplemental.ipynb)
+3. [Flow control](notebooks/3_FlowControl.ipynb): Conditional statements, loops and functions. [Supplementary materials](notebooks/3_FlowControl_supplemental.ipynb)
+4. [Reading and writing files](notebooks/4_ReadingAndWritingFiles.ipynb): Reading and writing files from and to disk. [Supplementary materials](notebooks/4_ReadingAndWritingFiles_supplemental.ipynb)
+5. [Data wrangling with Pandas](notebooks/5_PandasDataWrangling.ipynb): Introduction to Pandas, the go-to library for data analysis. Loading, cleaning and transforming data for analysis. [Supplementary materials](notebooks/5_PandasDataWrangling_supplemental.ipynb)
+6. [Working with Tweets](notebooks/6_WorkingTweets.ipynb): working with data from Twitter. [Supplementary materials](notebooks/6_WorkingTweets_supplemental.ipynb)
+
+### Advanced optional content
+7. (optional) [Web Scraping and APIs](notebooks/7_WebScraping.ipynb): scraping the Web and APIs for data.
+8. (optional) [Working with Texts](notebooks/8_WorkingTexts.ipynb): the Natural Language Processing pipeline to work with texts.
 
 We will use some **datasets** from [this course](https://github.com/mromanello/ADA-DHOxSS/tree/master/data).
 
 ## Set-up
 **See a more detailed [guide to setup your environment](setup.md), with multiple options.**
-
-### Editor
-
-You may need an **editor** to write code and edit files offline on your own system. If you don't have a preferred one yet, check [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
 
 ### Working with Google Colab
 
@@ -28,12 +27,16 @@ Using Google Colab, you can open our course materials from Github directly and k
 
 ### Working with Jupyter Notebooks
 
-* Option 1 (recommended): Download [the repository contents](https://github.com/bloemj/2022-coding-the-humanities) and use Jupyter Notebook. See the [guide to setup your environment](setup.md) for more info.
+* Option 1 (recommended): Download [the repository contents](https://github.com/bloemj/2023-coding-the-humanities) and use Jupyter Notebook. See the [guide to setup your environment](setup.md) for more info.
 
 * Option 2 (advanced): work directly with git and conda. See the [guide to setup your environment](setup.md) for more info.
 
 
 * Option 3 (fallback): Use [Binder](https://mybinder.org) (link above). Keep in mind you need to download your notebooks to save them locally. (Note: Binder )
+
+### Editor
+
+If you wish to write code without using Colab or a notebook, you will need an **editor** to write code and edit files offline on your own system. If you don't have a preferred one yet, check [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
 
 
 ### Further reading
@@ -48,7 +51,7 @@ Using Google Colab, you can open our course materials from Github directly and k
 ## Acknowledgements
 
 Various materials are re-purposed from:
-* Materials used in this course (Spring 2022) are a 'fork' of [last year's material](https://github.com/uvacreate/2021-coding-the-humanities) taught by [Leon van Wissen](https://www.leonvanwissen.nl/) which was a 'fork' of [the 2020 course materials](https://github.com/Giovanni1085/UvA_CDH_2020) by [Giovanni Colavizza](https://www.giovannicolavizza.com/)
+* Materials used in this course (Spring 2023) are a 'fork' of [last year's course materials](https://github.com/bloemj/2022-coding-the-humanities) taught by [Jelke Bloem](https://www.uva.nl/profiel/b/l/j.bloem/j.bloem.html) which was a 'fork' of [the 2021 course materials](https://github.com/uvacreate/2021-coding-the-humanities) taught by [Leon van Wissen](https://www.leonvanwissen.nl/) which was a 'fork' of [the 2020 course materials](https://github.com/Giovanni1085/UvA_CDH_2020) by [Giovanni Colavizza](https://www.giovannicolavizza.com/)
 * [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS), Oxford Digitial Humanities Summer School.
 * [Text Mining](https://github.com/Giovanni1085/AUC_TMCI_2019), Amsterdam University College.
 * [Python Programming for the Humanities](http://www.karsdorp.io/python-course).
