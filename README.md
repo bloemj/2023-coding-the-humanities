@@ -4,7 +4,7 @@
 
 ## Contents
 
-0. [Hello World](notebooks/0_HelloWorld.ipynb): a first notebook to check if things are working. To run Python on your own laptop, use [this one](notebooks/0_HelloWorld_localinstall.ipynb).
+0. [Hello World](notebooks/0_HelloWorld.ipynb): Preparation notebook to check if things work. To run Python on your own laptop, use [this one](notebooks/0_HelloWorld_localinstall.ipynb).
 1. [Python variables](notebooks/1_Variables.ipynb): Basic information on variables in Python -- [Supplementary materials](notebooks/1_Variables_supplemental.ipynb)
 2. [Text](notebooks/2_Text.ipynb): Text strings and dictionaries -- [Supplementary materials](notebooks/2_Text_supplemental.ipynb)
 3. [Flow control](notebooks/3_FlowControl.ipynb): Conditional statements, loops and functions -- [Supplementary materials](notebooks/3_FlowControl_supplemental.ipynb)
