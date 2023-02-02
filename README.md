@@ -5,12 +5,12 @@
 ## Contents
 
 0. [Hello World](notebooks/0_HelloWorld.ipynb): a first notebook to check if everything is working. To run Python on your own laptop, use [this one](notebooks/0_HelloWorld_localinstall.ipynb).
-1. [Python variables](notebooks/1_Variables.ipynb): Basic information on variables in Python, including ample reference documentation. [Supplementary materials](notebooks/1_Variables_supplemental.ipynb)
-2. [Text](notebooks/2_Text.ipynb): Text strings and dictionaries. [Supplementary materials](notebooks/2_Text_supplemental.ipynb)
-3. [Flow control](notebooks/3_FlowControl.ipynb): Conditional statements, loops and functions. [Supplementary materials](notebooks/3_FlowControl_supplemental.ipynb)
-4. [Reading and writing files](notebooks/4_ReadingAndWritingFiles.ipynb): Reading and writing files from and to disk. [Supplementary materials](notebooks/4_ReadingAndWritingFiles_supplemental.ipynb)
-5. [Data wrangling with Pandas](notebooks/5_PandasDataWrangling.ipynb): Introduction to Pandas, the go-to library for data analysis. Loading, cleaning and transforming data for analysis. [Supplementary materials](notebooks/5_PandasDataWrangling_supplemental.ipynb)
-6. [Working with Tweets](notebooks/6_WorkingTweets.ipynb): working with data from Twitter. [Supplementary materials](notebooks/6_WorkingTweets_supplemental.ipynb)
+1. [Python variables](notebooks/1_Variables.ipynb): Basic information on variables in Python -- [Supplementary materials](notebooks/1_Variables_supplemental.ipynb)
+2. [Text](notebooks/2_Text.ipynb): Text strings and dictionaries -- [Supplementary materials](notebooks/2_Text_supplemental.ipynb)
+3. [Flow control](notebooks/3_FlowControl.ipynb): Conditional statements, loops and functions -- [Supplementary materials](notebooks/3_FlowControl_supplemental.ipynb)
+4. [Reading and writing files](notebooks/4_ReadingAndWritingFiles.ipynb): Reading and writing files from and to disk -- [Supplementary materials](notebooks/4_ReadingAndWritingFiles_supplemental.ipynb)
+5. [Data wrangling with Pandas](notebooks/5_PandasDataWrangling.ipynb): Introduction to Pandas, the go-to library for data analysis. Loading, cleaning and transforming data for analysis -- [Supplementary materials](notebooks/5_PandasDataWrangling_supplemental.ipynb)
+6. [Working with Tweets](notebooks/6_WorkingTweets.ipynb): working with data from Twitter -- [Supplementary materials](notebooks/6_WorkingTweets_supplemental.ipynb)
 
 ### Advanced optional content
 7. (optional) [Web Scraping and APIs](notebooks/7_WebScraping.ipynb): scraping the Web and APIs for data.
@@ -23,7 +23,7 @@ We will use some **datasets** from [this course](https://github.com/mromanello/A
 
 ### Working with Google Colab
 
-Using Google Colab, you can open our course materials from Github directly and keep the whole process in the cloud. View the list of class notebooks that are available for running and editing by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window, which appears when you first log in. Choose the GitHub option (second option from the right) and enter the GitHub link of our course materials: https://github.com/bloemj/2022-coding-the-humanities
+Using Google Colab, you can open our course materials from Github directly and keep the whole process in the cloud. View the list of class notebooks that are available for running and editing by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window, which appears when you first log in. Choose the GitHub option (second option from the right) and enter the GitHub link of our course materials: https://github.com/bloemj/2023-coding-the-humanities
 
 ### Working with Jupyter Notebooks
 
