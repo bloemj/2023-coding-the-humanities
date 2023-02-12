@@ -2,7 +2,7 @@
 
 ## Primary option: Jupyter Notebooks in Google Colab
 
-Using Google Colab, you can open our class materials from Github directly and keep the whole process in the cloud. View the list of class notebooks that are available for running and editing by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window, which appears when you first log in. Choose the **GitHub** option (second option from the right) and enter the GitHub link of our course materials: https://github.com/bloemj/2022-coding-the-humanities 
+Using Google Colab, you can open our class materials from Github directly and keep the whole process in the cloud. View the list of class notebooks that are available for running and editing by going to your Google Colab: https://colab.research.google.com/ and loading them using the "Open Notebook" window, which appears when you first log in. Choose the **GitHub** option (second option from the right) and enter the GitHub link of our course materials: https://github.com/bloemj/2023-coding-the-humanities 
 
 Then you will see a list of the class notebooks. Click one to open it. When you choose to **save your changes**, Colab will ask you to save a copy to your Google Drive. This will be your own copy of the file that you will work on. You are now good to go!
 
@@ -14,7 +14,7 @@ Note that all of these things only work while you have an active internet connec
 
 ## Offline option: Anaconda and Jupyter Notebooks
 
-Download data and code for each class. Go to [the repository](https://github.com/uvacreate/2021-coding-the-humanities) and click on download > zip (top right). Unzip locally somewhere you know (e.g., desktop). Keep in mind you will need to download again for each class, as new contents are added.
+Download data and code for each class. Go to [the repository](https://github.com/bloemj/2023-coding-the-humanities) and click on download > zip (top right). Unzip locally somewhere you know (e.g., desktop). Keep in mind you will need to download again for each class, as new contents are added.
 
 [Jupyter notebooks](https://jupyter.org/) allow you to code and type in your browser. This is included in the Anaconda distribution. 
 
@@ -84,7 +84,7 @@ For Windows, see [here](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_
 
 ##### The best way
 
-1. The first time, clone the repository locally using `git clone https://github.com/bloemj/2022-coding-the-humanities.git`.
+1. The first time, clone the repository locally using `git clone https://github.com/bloemj/2023-coding-the-humanities.git`.
 2. Keep getting updates to the code before every seminar by going to your local repository directory (e.g., `cd PATH_TO_REPO`) and `git pull`. This will pull all remote changes to local, and update your repository.
 
 ##### The easy way - 1 
